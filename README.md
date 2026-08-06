@@ -53,6 +53,4 @@ This application simplifies the process by providing instant recommendations bas
 🔜 AI recommendation engine  
 🔜 IoT monitoring integration  
 
----
 
-## 🏗️ System Architecture
